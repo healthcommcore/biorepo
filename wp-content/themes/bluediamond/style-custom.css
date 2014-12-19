@@ -1,23 +1,23 @@
-.top-navigation-wrapper{ background-color: #1bc4de; } 
+.top-navigation-wrapper{ background-color: #063f6a; } 
 div.top-search-wrapper input[type="text"]{ color: #cccccc; } 
 div.top-search-wrapper input[type="text"]{ background-color: #f3f3f3; } 
 div.top-search-wrapper input[type="submit"]{ border-color: #dbdbdb; } 
-.navigation-wrapper, ul.sf-menu li a{ background-color: #272727; } 
+.navigation-wrapper, ul.sf-menu li a{ background-color: #677b8a; } 
 .sf-menu li a{ color: #ffffff; } 
 .sf-menu li a:hover{ color: #ffffff; } 
-.sf-menu li a:hover{ background-color: #1bc4de; } 
+.sf-menu li a:hover{ background-color: #063f6a; } 
 .sf-menu li.current-menu-ancestor a, .sf-menu li.current-menu-item a, .sf-menu li.current-post-ancestor a{ color: #ffffff; } 
-.sf-menu li.current-menu-ancestor a, .sf-menu li.current-menu-item a, .sf-menu li.current-post-ancestor a{ background-color: #1bc4de; } 
+.sf-menu li.current-menu-ancestor a, .sf-menu li.current-menu-item a, .sf-menu li.current-post-ancestor a{ background-color: #063f6a; } 
 .sf-menu li li{ background-color: #fdfdfd; } 
 .sf-menu ul, .sf-menu ul li{ border-color: #ececec; } 
 .sf-menu li li a, .sf-menu li.current-menu-item li a, .sf-menu li.current-menu-ancestor li a, .sf-menu li li.current-menu-item li a, .sf-menu li.current-post-ancestor li a{ color: #7a7a7a; } 
 .sf-menu li li a:hover, .sf-menu li li.current-menu-item li a:hover, .sf-menu li li.current-menu-ancestor li a:hover{ color: #3d3d3d; } 
 .sf-menu li li.current-menu-item a, .sf-menu li li.current-menu-ancestor a, .sf-menu li li.current-menu-ancestor li.current-menu-item a, .sf-menu li li.current-post-ancestor a{ color: #3d3d3d; } 
 div.page-header-top-gimmick{ background-color: #e5e5e5; } 
-h1.page-header-title{ color: #4a4a4a; } 
+h1.page-header-title{ color: #2780a3; } 
 span.page-header-caption{ color: #b6b6b6; } 
 h1, h2, h3, h4, h5, h6{ color: #4a4a4a; } 
-body{ color: #959595; } 
+body{ color: #333333; } 
 html{ background-color: #555555; } 
 .container.main{ background-color: #ffffff; } 
 a{ color: #1bc4de; } 
@@ -130,13 +130,13 @@ div.gdl-static-testimonial .testimonial-item{ color: #666666; }
 div.gdl-static-testimonial .testimonial-item{ border-color: #bdbdbd; } 
 div.gdl-static-testimonial .testimonial-info{ color: #a8a8a8; } 
 html{ background-image: url(http://biorepo.hccdev.org/wp-content/themes/bluediamond/images/pattern/pattern-13.png); } 
-.logo-wrapper{ padding-top: 50px; padding-bottom: 42px; } 
+.logo-wrapper{ padding-top: 50px; padding-bottom: 18px; } 
 div.logo-right-text{ margin-top: 40px; } 
-div.navigation-wrapper{ font-size: 13px; } 
-h1.gdl-header-title{ font-size: 21px; } 
-body{ font-size: 13px; } 
+div.navigation-wrapper{ font-size: 16px; } 
+h1.gdl-header-title{ font-size: 24px; } 
+body{ font-size: 17px; } 
 h3.custom-sidebar-title{ font-size: 15px; } 
-h1{ font-size: 30px; } 
+h1{ font-size: 36px; } 
 h2{ font-size: 25px; } 
 h3{ font-size: 20px; } 
 h4{ font-size: 18px; } 
