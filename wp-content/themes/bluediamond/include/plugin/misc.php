@@ -23,7 +23,7 @@
 			$sidebar_type = 'one-sidebar';
 			$sidebar_array['sidebar_class'] = "single-sidebar left-sidebar";
 			$sidebar_array['page_left_class']= "twelve columns";
-			$sidebar_array['page_item_class'] = "eight columns";
+			$sidebar_array['page_item_class'] = "nine columns";
 		}else if( $sidebar == "right-sidebar" ){
 			$sidebar_type = 'one-sidebar';		
 			$sidebar_array['sidebar_class'] = "single-sidebar right-sidebar";	

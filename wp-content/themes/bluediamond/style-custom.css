@@ -2,7 +2,7 @@
 div.top-search-wrapper input[type="text"]{ color: #cccccc; } 
 div.top-search-wrapper input[type="text"]{ background-color: #f3f3f3; } 
 div.top-search-wrapper input[type="submit"]{ border-color: #dbdbdb; } 
-.navigation-wrapper, ul.sf-menu li a{ background-color: #677b8a; } 
+.navigation-wrapper, ul.sf-menu li a{ background-color: #7891ab; } 
 .sf-menu li a{ color: #ffffff; } 
 .sf-menu li a:hover{ color: #ffffff; } 
 .sf-menu li a:hover{ background-color: #063f6a; } 
@@ -14,23 +14,23 @@ div.top-search-wrapper input[type="submit"]{ border-color: #dbdbdb; }
 .sf-menu li li a:hover, .sf-menu li li.current-menu-item li a:hover, .sf-menu li li.current-menu-ancestor li a:hover{ color: #3d3d3d; } 
 .sf-menu li li.current-menu-item a, .sf-menu li li.current-menu-ancestor a, .sf-menu li li.current-menu-ancestor li.current-menu-item a, .sf-menu li li.current-post-ancestor a{ color: #3d3d3d; } 
 div.page-header-top-gimmick{ background-color: #e5e5e5; } 
-h1.page-header-title{ color: #2780a3; } 
+h1.page-header-title{ color: #c87d32; } 
 span.page-header-caption{ color: #b6b6b6; } 
-h1, h2, h3, h4, h5, h6{ color: #4a4a4a; } 
-body{ color: #333333; } 
-html{ background-color: #555555; } 
+h1, h2, h3, h4, h5, h6{ color: #7891ab; } 
+body{ color: #54565e; } 
+html{ background-color: #f2f3f7; } 
 .container.main{ background-color: #ffffff; } 
-a{ color: #1bc4de; } 
-a:hover{ color: #a5e5ee; } 
+a{ color: #c87d32; } 
+a:hover{ color: #e39f5b; } 
 ::selection, ::-moz-selection{ color: #ffffff; } 
 ::selection, ::-moz-selection{ background-color: #4f4f4f; } 
-.sidebar-wrapper a{ color: #969696; } 
-.sidebar-wrapper a:hover{ color: #d1d1d1; } 
+.sidebar-wrapper a{ color: #4188c6; } 
+.sidebar-wrapper a:hover{ color: #7baad4; } 
 .custom-sidebar-title, .custom-sidebar-title a{ color: #494949; } 
 .sidebar-wrapper .recent-post-widget-info, .sidebar-wrapper #twitter_update_list{ color: #cacaca; } 
 div.recent-port-widget .recent-port-widget-thumbnail, div.recent-post-widget .recent-post-widget-thumbnail, div.custom-sidebar .flickr_badge_image{ background-color: #eeeeee; } 
 .tagcloud a{ background-color: #f5f5f5; } 
-div.footer-twitter-wrapper{ background-color: #1bc4de; } 
+div.footer-twitter-wrapper{ background-color: #999999; } 
 div.footer-twitter-wrapper{ color: #ffffff; } 
 div.footer-twitter-wrapper a{ color: #ffffff; } 
 div.footer-top-bar{ background-color: #eaeaea; } 
@@ -129,12 +129,11 @@ div.gdl-carousel-testimonial .testimonial-content{ background-color: #f8f8f8; }
 div.gdl-static-testimonial .testimonial-item{ color: #666666; } 
 div.gdl-static-testimonial .testimonial-item{ border-color: #bdbdbd; } 
 div.gdl-static-testimonial .testimonial-info{ color: #a8a8a8; } 
-html{ background-image: url(http://biorepo.hccdev.org/wp-content/themes/bluediamond/images/pattern/pattern-13.png); } 
 .logo-wrapper{ padding-top: 50px; padding-bottom: 18px; } 
 div.logo-right-text{ margin-top: 40px; } 
-div.navigation-wrapper{ font-size: 16px; } 
-h1.gdl-header-title{ font-size: 24px; } 
-body{ font-size: 17px; } 
+div.navigation-wrapper{ font-size: 17px; } 
+h1.gdl-header-title{ font-size: 26px; } 
+body{ font-size: 18px; } 
 h3.custom-sidebar-title{ font-size: 15px; } 
 h1{ font-size: 36px; } 
 h2{ font-size: 25px; } 
@@ -142,11 +141,11 @@ h3{ font-size: 20px; }
 h4{ font-size: 18px; } 
 h5{ font-size: 16px; } 
 h6{ font-size: 15px; } 
-body{ font-family: "PT Sans"; } 
-h1, h2, h3, h4, h5, h6{ font-family: "ABeeZee"; } 
+body{ font-family: "Lato"; } 
+h1, h2, h3, h4, h5, h6{ font-family: "Raleway"; } 
 .gdl-slider-title{ font-family: "ABeeZee"; } 
 h1.stunning-text-title{ font-family: "ABeeZee"; } 
-div.navigation-wrapper{ font-family: "ABeeZee"; } 
+div.navigation-wrapper{ font-family: "Lato"; } 
 ul.gdl-accordion li.active .accordion-title, ul.gdl-toggle-box li.active .toggle-box-title{ background-image: url(http://biorepo.hccdev.org/wp-content/themes/bluediamond/images/icon/dark/accordion-title-active.png); } 
 ul.gdl-accordion li .accordion-title, ul.gdl-toggle-box li .toggle-box-title{ background-image: url(http://biorepo.hccdev.org/wp-content/themes/bluediamond/images/icon/dark/accordion-title.png); } 
 div.gdl-carousel-testimonial .testimonial-content{ background-image: url(http://biorepo.hccdev.org/wp-content/themes/bluediamond/images/icon/dark/testimonial-quote.png); } 

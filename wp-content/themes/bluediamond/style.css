@@ -832,6 +832,7 @@ div.custom-sidebar ul li{ padding: 5px 0px 5px 15px; background-position: 0px 10
 div.custom-sidebar ul li:last-child{ border-bottom: 0; } 
 div.custom-sidebar ul ul{ margin-top: 8px; border-top-width: 1px; border-top-style: solid; }
 div.custom-sidebar ul ul li:last-child{ padding-bottom: 0px; }
+div.custom-sidebar .menu-item a{font-size:20px;}
 
 div.custom-sidebar ul.gdl-accordion li { padding-left: 0px; background: none; }
 div.custom-sidebar ul.gdl-toggle-box li { padding-left: 0px; background: none; }
