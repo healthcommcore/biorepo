@@ -67,7 +67,7 @@ sup { height: 0; line-height: 1; position: relative; top: -0.6em;
 sub { height: 0; line-height: 1; position: relative; top: +0.2em; 
 	vertical-align: baseline !important; vertical-align: bottom; font-size: 10px;}
 
-ul,ol{ margin-left: 30px; }
+ul,ol{ margin-left: 30px; margin-bottom:20px;}
 ul{ list-style: disc; }	
 ol{ list-style: decimal; }
 	
